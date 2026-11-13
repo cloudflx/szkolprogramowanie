@@ -1,3 +1,3 @@
 #fullstack open
 
-norbert kozinski
+kozinski norbert
